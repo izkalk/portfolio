@@ -10,8 +10,8 @@ I am a manual backend and frontend tester. Currently I am testing a web applicat
 * Version control systems:
   [GIT/GITHUB](https://github.com/izkalk)
 * Methodologies:
-  Scrum
+  [Scrum](https://www.scrum.org)
 * Testing tools:
-  Postman, Playwright
+  [Postman](https://www.postman.com/); [Playwright](https://playwright.dev/)
 * Operating systems:
   Windows
