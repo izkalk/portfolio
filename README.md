@@ -15,3 +15,9 @@ I am a manual backend and frontend tester. Currently I am testing a web applicat
   [Postman](https://www.postman.com/); [Playwright](https://playwright.dev/)
 * Operating systems:
   Windows
+## My example Test Documentation
+### Test cases
+* [Backend Test Cases](https://docs.google.com/spreadsheets/d/1LtifQrwCnMhDCRVztSdYoLL7YLbOQuLpojTtWCT6xyo/edit?usp=sharing)
+* [Frontend Test Cases](https://docs.google.com/spreadsheets/d/1sLfpDc7R0v3zOSlLDKdezmo6mb0QITvXaW6cGQEIcGk/edit?usp=sharing)
+### Bugs Reporting
+* 
